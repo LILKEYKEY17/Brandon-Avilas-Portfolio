@@ -8,7 +8,7 @@ Installation
 N/A
 
 Usage
-Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
+use the toolbar in header to navigate the website. Click buttons to see future projects and link in footer to see my github reposotories.
 
 Credits
 N/A
