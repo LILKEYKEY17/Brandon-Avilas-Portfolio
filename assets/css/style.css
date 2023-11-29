@@ -74,6 +74,11 @@ a {
     width: 100%;
 }
 
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+}
+
 #Face-Pic {
     height: 40vh;
     width: 39vh;
@@ -115,7 +120,7 @@ a {
     width: 100vh;
     border: 7px solid #094a4c;
     color: #033724;
-    background-image: url("https://www.surfertoday.com/images/stories/surfreport.jpg");
+    background-image: url("../images/surfreport.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -131,7 +136,7 @@ a {
     width: 50vh;
     border: 7px solid #094a4c;
     color: #033724;
-    background-image: url("https://www.shutterstock.com/shutterstock/videos/1026473219/thumb/1.jpg?ip=x480");
+    background-image: url("../images/Led-Wall.webp");
     background-position: center;
     background-size: cover;
 }
@@ -147,7 +152,7 @@ a {
     width: 50vh;
     border: 7px solid #094a4c;
     color: #033724;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7bSarZI_G_IoRhUC7rY1adbcie4n_FHT9g&usqp=CAU");
+    background-image: url("../images/Calculator.jpeg");
     background-position: center;
 }
 
@@ -162,7 +167,7 @@ a {
     width: 50vh;
     border: 7px solid #094a4c;
     color: #033724;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4yxTXh4C3dsjYdawem6d1XuNNkAMivdWqw&usqp=CAU");
+    background-image: url("../images/Puzzle-Pastel.jpeg");
 }
 
 #four:hover {
@@ -176,7 +181,7 @@ a {
     width: 50vh;
     border: 7px solid #094a4c;
     color: #033724;
-    background-image: url("https://www.statecollege.com/wp-content/uploads/2021/01/1483277_46306.jpg");
+    background-image: url("../images/Run-Buddy.jpeg");
     background-size: cover;
 }
 
@@ -189,10 +194,6 @@ h3 {
     background-color: lightseagreen;
     width: fit-content;
 }
-
-
-
-
 
 .Contact-Me {
     border: 10px solid whitesmoke;
@@ -218,4 +219,15 @@ h3 {
 #Contacts div ul li {
     display: inline-flex;
     margin-left: 25px;
+}
+
+a:hover {
+    color: black;
+}
+
+.footer {
+    background-color: whitesmoke;
+    height: 10vh;
+    display:flex;
+    justify-content: space-around;
 }
