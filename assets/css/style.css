@@ -1,21 +1,21 @@
 * {
     margin: 0px;
     padding-right: 0px;
-    background-color: aliceblue;
 }
 
 .header {
-    background-color: grey;
+    background-color: #094a4c;
     color: azure;
     height: 100px;
-    border-bottom: 10px solid lightcoral;
+    border-bottom: 10px solid #033724;
 
 }
 
 .header h1 {
     display: inline-block;
     font-size: 50px;
-    background-color: grey;
+    background-color: #094a4c;
+    color: lightseagreen;
 }
 
 .header div {
@@ -23,56 +23,77 @@
     margin-right: 20px;
     float: right;
     font-size: 25px;
-    background-color: grey;
+    background-color: #094a4c;
 }
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-    background-color: grey;
+    background-color: #094a4c;
 }
 
 a {
-    color: black;
+    color: lightseagreen;
 }
 
+.Head-Pic {
+    height: 300px;
+    width: 100%;
+    background-image: url("../images/404-header\ 2.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+
 .content {
-    border: 10px solid aliceblue;
+    border: 10px solid whitesmoke;
 
 }
 
 .About-Me {
-    border: 10px solid aliceblue;
+    border: 10px black;
     height: 40vh;
     color: black;
     font-size: 35px;
     display: flex;
+    background-color: whitesmoke;
 }
 
 #Other-About {
     border-right: 5px solid black;
-    width: 35vh;
-    height: 30vh;
-    background-color: aliceblue;
+    width: 57vh;
+    height: 40vh;
+    background-color: whitesmoke;
 
 }
 
 #Paragraph {
     padding-left: 25px;
-    background-color: aliceblue;
-    width: 110vh;
+    background-color: whitesmoke;
+    width: 100%;
 }
 
+#Face-Pic {
+    height: 40vh;
+    width: 39vh;
+    background-image: url("../images/IMG_9639.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
 .Work {
-    border: 10px solid aliceblue;
+    border: 10px solid whitesmoke;
     height: 120vh;
     color: black;
     font-size: 35px;
     display: flex;
+    background-color: whitesmoke;
 }
 
 #Left {
-    background-color: aliceblue;
+    background-color: whitesmoke;
     width: 35vh;
     border-right: 5px solid black;
 
@@ -84,72 +105,87 @@ a {
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: space-around;
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 
 
 #one {
-    background-color: lavender;
+    background-color: lightslategray;
     height: 50vh;
     width: 100vh;
-    border: 7px solid lightcoral;
-    color: darkseagreen;
+    border: 7px solid #094a4c;
+    color: #033724;
+    background-image: url("https://www.surfertoday.com/images/stories/surfreport.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 #two {
-    background-color: lavender;
+    background-color: lightslategray;
     height: 15vh;
     width: 50vh;
-    border: 7px solid lightcoral;
-    color: darkseagreen;
+    border: 7px solid #094a4c;
+    color: #033724;
+    background-image: url("https://www.shutterstock.com/shutterstock/videos/1026473219/thumb/1.jpg?ip=x480");
+    background-position: center;
+    background-size: cover;
 }
 
 #three {
-    background-color: lavender;
+    background-color: lightslategray;
     height: 15vh;
     width: 50vh;
-    border: 7px solid lightcoral;
-    color: darkseagreen;
+    border: 7px solid #094a4c;
+    color: #033724;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7bSarZI_G_IoRhUC7rY1adbcie4n_FHT9g&usqp=CAU");
+    background-position: center;
 }
 
 #four {
-    background-color: lavender;
+    background-color: lightslategray;
     height: 15vh;
     width: 50vh;
-    border: 7px solid lightcoral;
-    color: darkseagreen;
+    border: 7px solid #094a4c;
+    color: #033724;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4yxTXh4C3dsjYdawem6d1XuNNkAMivdWqw&usqp=CAU");
 }
 
 #five {
-    background-color: lavender;
+    background-color: lightslategray;
     height: 15vh;
     width: 50vh;
-    border: 7px solid lightcoral;
-    color: darkseagreen;
+    border: 7px solid #094a4c;
+    color: #033724;
+    background-image: url("https://www.statecollege.com/wp-content/uploads/2021/01/1483277_46306.jpg");
+    background-size: cover;
 }
 
-
+h3 {
+    background-color: lightseagreen;
+    width: fit-content;
+}
 
 
 
 
 
 .Contact-Me {
-    border: 10px solid aliceblue;
+    border: 10px solid whitesmoke;
     height: 10vh;
     color: black;
     font-size: 35px;
     display: flex;
+    background-color: whitesmoke;
 }
 
 #Get-Ahold {
-    background-color: aliceblue;
+    background-color: whitesmoke;
     width: 35vh;
     border-right: 5px solid black;
 }
 
 #Contacts {
-    background-color: aliceblue;
+    background-color: whitesmoke;
     width: 118vh;
     display: flex;
 }
