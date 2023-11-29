@@ -120,6 +120,11 @@ a {
     background-position: center;
 }
 
+#one:hover {
+    transform: translateY(-10px);
+    color: aliceblue;
+}
+
 #two {
     background-color: lightslategray;
     height: 15vh;
@@ -129,6 +134,11 @@ a {
     background-image: url("https://www.shutterstock.com/shutterstock/videos/1026473219/thumb/1.jpg?ip=x480");
     background-position: center;
     background-size: cover;
+}
+
+#two:hover {
+    transform: translateY(-10px);
+    color: aliceblue;
 }
 
 #three {
@@ -141,6 +151,11 @@ a {
     background-position: center;
 }
 
+#three:hover {
+    transform: translateY(-10px);
+    color: aliceblue;
+}
+
 #four {
     background-color: lightslategray;
     height: 15vh;
@@ -148,6 +163,11 @@ a {
     border: 7px solid #094a4c;
     color: #033724;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH4yxTXh4C3dsjYdawem6d1XuNNkAMivdWqw&usqp=CAU");
+}
+
+#four:hover {
+    transform: translateY(-10px);
+    color: aliceblue;
 }
 
 #five {
@@ -158,6 +178,11 @@ a {
     color: #033724;
     background-image: url("https://www.statecollege.com/wp-content/uploads/2021/01/1483277_46306.jpg");
     background-size: cover;
+}
+
+#five:hover {
+    transform: translateY(-10px);
+    color: aliceblue;
 }
 
 h3 {
