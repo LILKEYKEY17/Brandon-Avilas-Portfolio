@@ -1,19 +1,19 @@
 # Brandon-Avilas-Portfolio
 
-Description
+## Description
 This is a personal portfolio created to be seen by employers and shows my works, a little about myself,
 my resume and how to contact me.
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 use the toolbar in header to navigate the website. Click buttons to see future projects and link in footer to see my github reposotories.
 
-Credits
+## Credits
 N/A
 
-License
+## License
 MIT License
 
 Copyright (c) 2023 LILKEYKEY17
@@ -24,10 +24,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Features
+## Features
 Website contains sections for HTML, CSS, Git, JavaScript.
 
-How to Contribute
+## How to Contribute
 If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own if you'd prefer.
 
-Tests
+## Tests
